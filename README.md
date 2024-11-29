@@ -1,2 +1,4 @@
 # PT
-STAT3612, PT: A Plain Transformer is Hospital Readmission Predictor
+comming soon..
+STAT3612 project, PT: A Plain Transformer is Hospital Readmission Predictor
+
