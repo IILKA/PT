@@ -1,5 +1,7 @@
 <h2>PT</h2>
-STAT3612 project, PT: A Plain Transformer is Hospital Readmission Predictor
+STAT3612 project, PT: A Plain Transformer is Hospital Readmission Predictor. 
+
+This is a very rough implementation of the paper, I try my best to make the code readable and easy to understand. 
 
 
 
@@ -74,6 +76,15 @@ The ensemble model's validation AUC will be around 0.86 - 0.91
 Expected results: 
 without ensemble: 0.89 AUC on public, 0.88 AUC on private
 with ensemble: 0.90 AUC on public, 0.905 AUC on private
+
+
+
+For grader:
+Any questions, please contact at: 
+fanz1@connect.hku.hk
+
+Or raise an issue on github https://github.com/IILKA/PT
+
 
 
 
