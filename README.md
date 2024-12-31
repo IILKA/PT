@@ -33,10 +33,14 @@ place the data into the same folder so that the main structure of this folder is
 
 Extract tfidf features from the data taking few minutes to run, ensure that notes.csv is in the same folder as the code 
 
+
 ```bash
 python note_feature_extraction_t.py
 ```
 
+```bash
+python get_note_label.py
+```
 
 
 
