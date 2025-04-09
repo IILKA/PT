@@ -100,7 +100,7 @@ class TransformerClassifier(nn.Module):
         logit = self.fc(torch.cat([src_output, notes_output], dim=1))
         return logit.squeeze(-1)
 
-# 6. 定义自定义损失函数
+
 # ----------------------
 
 class LabelSmoothingFocalLoss(nn.Module):
